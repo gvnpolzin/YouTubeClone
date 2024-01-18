@@ -1,0 +1,39 @@
+p{
+  font-family:Roboto;
+
+}
+.video-title {
+width: 600px;
+font-size: 30px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+.video-stats {
+font-size: 14px;
+color: gray;
+margin-top: 0;
+margin-bottom: 0;
+}
+.video-author {
+margin-top: 0;
+}
+
+.video-description {
+margin-top: 0;
+width: 280px;
+line-height: 22px;
+color: gray;
+
+}
+.apple-shop {
+background-color: rgb(225, 52, 52);
+color: white;
+padding-top: 18px;
+padding-bottom: 18px;
+text-align: center;
+}
+.shop-now {
+text-decoration: underline;
+cursor: pointer;
+margin-left: 10px;
+}
