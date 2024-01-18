@@ -3,10 +3,12 @@
   /* makes it stick */
   left: 0;
   bottom: 0;
-  top: 55px;  /* height of header */
+  top: 55px;
+  /* height of header */
   background-color: white;
   width: 72px;
 }
+
 /* text below is a css selector */
 .sidebar-link {
   height: 74px;
@@ -24,8 +26,8 @@
 }
 
 .sidebar-link img {
-height: 24px;
-margin-bottom: 4px;
+  height: 24px;
+  margin-bottom: 4px;
 }
 
 .sidebar-link div {
